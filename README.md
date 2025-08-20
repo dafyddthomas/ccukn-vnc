@@ -14,3 +14,15 @@ Reconfigure only (no web client firewall):
 Also set a view-only password:
 
 `.\Setup-TightVNC.ps1 -SetViewOnly -ViewOnlyPassword "ccp2003!"`
+
+## macOS 
+
+run 
+
+`sudo bash setup-macos-vnc.sh`
+
+## RPI
+
+run
+
+`sudo bash setup-vnc.sh`
